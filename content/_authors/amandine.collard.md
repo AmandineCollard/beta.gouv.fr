@@ -2,6 +2,7 @@
 fullname: Amandine Collard
 domaine: Intraprenariat
 role: Intrapreneuse
+link : https://www.linkedin.com/in/amandine-collard-39b74818a/
 avatar: ""
 missions:
   - start: 2023-04-24
@@ -13,3 +14,4 @@ startups:
 competences:
   - Administration Publique
 ---
+Ingénieure agronome - Bureau de l'Aquaculture
