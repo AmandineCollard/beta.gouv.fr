@@ -1,6 +1,6 @@
 ---
 title: Aquapreneurs
-mission: Simplifier les déclarations de données aquacoles et développer la filière
+mission: Accompagner les entreprises aquacoles en vue de développer leurs activités
 sponsors:
   - /organisations/mtes
 incubator: mtes
@@ -14,26 +14,31 @@ phases:
     end: 2023-09-27
   - name: construction
     start: 2023-09-27
-    comment: Agrandissement de l'équipe projet
+    comment: Développements en cours
 ---
 ## Contexte
 
-Le Secrétariat de l’État chargé de la mer et le Ministère de l'Agriculture et de la Souveraineté Alimentaire portent une volonté commune de simplifier les procédures administratives et d'améliorer la qualité des données collectées. Ce portage politique interministériel matérialisé dans le Plan Aquacultures d'Avenir a pour objectif de remobiliser les usagers à respecter leur obligations déclaratives. 
+Le Secrétariat de l’État chargé de la mer et le Ministère de l'Agriculture et de la Souveraineté Alimentaire portent une volonté commune de développer la filière aquacole. Un des leviers identifiés est de simplifier les procédures administratives et de faciliter l'installation. Ce portage politique interministériel est matérialisé dans le Plan Aquacultures d'Avenir.
 
 ## Problème
 
-L’État souhaite améliorer tant la quantité que la qualité des déclarations statistique et de production aquacoles obligatoires dans le but de mettre en œuvre des politiques de gestion aquacoles marines plus durables et intégrées au territoire. Les déclarations actuelles, parfois redondantes entre elles, engendrent une lourdeur administrative et une perte de sens pour les usagers.
+Les producteurs et productrices aquacoles sont confrontés à de multiples déclarations obligatoires chronophages et redondantes qu’ils considèrent inutiles, induisant :
+* une perte de sens et donc un désengagement progressif,
+* une mauvaise saisie de leurs données,
+* une vue parcellaire et biaisée de l’état de la filière.
+
+Les usagers rencontrent également des difficultés pour accéder à de nouvelles concessions du domaine public maritime freinant ainsi le développement de leur activité alors que certaines parcelles concédées ne sont pas mises en production.  
 
 ## Solution
 
-Grâce au portail des aquaculteurs marins, chaque entreprise exploitant sur le domaine publique maritime (DPM) pourra saisir ses données aquacoles une fois dans l'année. Les données seront ensuite transmises à certaines administrations, telles que les DDPP ou les DDTM pour limiter les collectes de données redondantes. 
+Grâce au portail des Aquapreneurs, chaque entreprise exploitant sur le domaine public maritime (DPM) pourra saisir ses données aquacoles une fois dans l'année. Les données seront ensuite transmises aux administrations pour la bonne réalisation de leurs missions de service public limitant ainsi les sursolicitations administratives.
 
-Parallèlement, les usagers pourront bénéficier de services inédits issus de leurs déclarations. 
+Parallèlement, les usagers pourront bénéficier de services inédits issus de leurs déclarations et gérer leurs concessions.
 
 ## Bénéficiaires
 
-* Aquaculteurs marins (usagers) 
-* Agents des services de l'Etat (DDTM, DGAMPA, DGAL, SSP)
+* Entreprises d'aquaculture marine (usagers) 
+* Agents des services de l'Etat
 * Établissements publics
 * Structures professionnelles et interprofession (données agrégées plus précises)
 
@@ -41,13 +46,15 @@ Parallèlement, les usagers pourront bénéficier de services inédits issus de 
 
 Ce portail facilitera :
 
-* les démarches administratives pour les usagers
-* l'accès au domaine public maritime
-* la mise en œuvre de missions de planification et de gestion durable du domaine publique maritime
-* l'accès à des données robustes et fiables
+* les démarches administratives pour les usagers;
+* l'accès au domaine public maritime;
+* la mise en œuvre de missions de planification et de gestion durable du domaine publique maritime;
+* l'accès à des données robustes et fiables pour défendre la filière.
 
 ## Stratégie
 
 Pour cette phase de construction, un premier outil sera testé sur une cinquantaine d'usagers situés dans les départements de la Charente Maritime, de l'Hérault, de la Manche et du Finistère (qui représentent environ la moitié des entreprises aquacoles marines). Cet outil embarquera la simplification administration et un service de cartographie numérique des concessions de cultures marines.
+
+L'administration souhaite accompagner la profession dans cette transition numérique et co-construire l'outil avec les usagers pour répondre au mieux, aux besoins des administrés.
 
 Prochain jalon : mars 2024
