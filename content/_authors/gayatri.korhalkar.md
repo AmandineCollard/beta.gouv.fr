@@ -11,9 +11,14 @@ missions:
     end: 2023-06-30
     status: independent
     employer: UT7
+  - start: 2023-11-20
+    end: 2024-11-20
+    status: independent
+    employer: 
 startups:
   - tout-est-permis
   - inventaireoeuvres
+  - Aquapreneurs
 badges:
   - segur
 ---
